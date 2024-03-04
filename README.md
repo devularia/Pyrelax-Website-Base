@@ -2,8 +2,6 @@
 
 ## A melhor base para começar um projeto
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 O Pyrelax-Website-Base é uma base sólida para iniciar seus projetos web. Com recursos poderosos e uma estrutura organizada, ele proporciona uma experiência de desenvolvimento suave.
 
 ### Recursos
