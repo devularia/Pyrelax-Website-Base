@@ -21,7 +21,7 @@ Siga as etapas abaixo para começar a desenvolver com o Pyrelax-Website-Base:
    git clone https://github.com/seu-usuario/pyrelax-website-base.git
    ```
 
-   2. **Inicie o servidor de desenvolvimento:**
+2. **Inicie o servidor de desenvolvimento:**
    ```bash
    npm run dev
    ```
